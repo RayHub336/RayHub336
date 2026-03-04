@@ -33,18 +33,19 @@ Desarrollé un bot en **Python** desplegado en una instancia **AWS EC2**.
 
 🔗 [Ver Repositorio]([NextWave-AI-Trading-Bot](https://github.com/RayHub336/NextWave-AI-Trading-Bot)) 
 
-### 2. Medical Knowledge Extractor — Web Scraping & NLP
+### 2. Interactive Vehicles Dashboard — Exploratory Data Analysis (EDA)
 **Contexto:**
-Necesidad de centralizar información médica dispersa en múltiples canales de video y sitios web no estructurados para crear una base de conocimiento accesible.
+Desarrollo de una aplicación web interactiva para explorar y analizar un conjunto de datos de anuncios de venta de vehículos en Estados Unidos, con el fin de encontrar patrones de precios.
 
 **Solución Técnica:**
-* Diseño de scripts de **Web Scraping** en Python para extracción masiva de datos.
-* Limpieza y estructuración de datos (Data Wrangling) para alimentar un modelo de lenguaje (NotebookLM).
-* Procesamiento de texto para categorizar temas de medicina integrativa.
+* Limpieza y preparación de datos (manejo de valores nulos y atípicos) usando **Pandas**.
+* Creación de visualizaciones interactivas (histogramas y diagramas de dispersión) utilizando **Plotly Express**.
+* Construcción y despliegue de la interfaz de usuario mediante **Streamlit**.
 
 **Resultados:**
-* Creación exitosa de una base de conocimientos consultable que reduce el tiempo de investigación manual.
+* Un dashboard funcional y amigable que permite a usuarios no técnicos filtrar y explorar visualmente las métricas clave del mercado de autos usados.
 
+🔗 [Ver Repositorio](https://github.com/RayHub336/Sprint-7---vehicles_dashboard)
 ---
 
 ### 📫 Contacto
